@@ -29,14 +29,7 @@ We are excited to announce that the beta of our platform, which allows you to au
 
 </td><td valign="top" width="25%">
 
-## 🖥️ Fav Tech Stack
 
-- Bridge
-- Next.js
-- MongoDB
-- Docker
-- Next.js
-- Rust (new)
  
 </tr></tr></table> 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
@@ -45,7 +38,14 @@ We are excited to announce that the beta of our platform, which allows you to au
 <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
 <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp; -->
 
+## 🖥️ Fav Tech Stack
 
+- Bridge
+- Next.js
+- MongoDB
+- Docker
+- Next.js
+- Rust (new)
 
 <a href="https://twitter.com/ShadyShoha"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ShadyShoha?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
